@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anurag Pal @Anuraag3107
-- 👀 I’m interested in DevOps.
-- 🌱 I’m currently learning Linux, Git & Git hub, AWS.
-- 💞️ I’m looking to collaborate on DevOps learning.
+- 👀 I’m interested in WebDev & DevOps.
+- 💞️ I’m looking to collaborate on WebDev & DevOps learning.
 - 📫 How to reach me eranuragpal@gmail.com.
 
 <!---
