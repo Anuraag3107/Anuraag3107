@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anurag Pal.
 - 👀 I’m interested in WebDev & DevOps.
-- 💞️ I’m looking to collaborate on WebDev & DevOps learning.
+- 💞️ I’m looking to collaborate on WebDev & DevOps.
 - 📫 How to reach me anuragpal3107@gmail.com.
 
 <!---
